@@ -1,0 +1,3 @@
+verific care numere sunt pare si imapre
+jnz pt ca verifica primul bit din dreapta si daca e 0 e impar 
+jz => par
